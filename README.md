@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teateearu and this is my readme file
-- 👀 On GitHub I’m interested in sharing some tryouts, little snippets of code
+- 👀 On GitHub I’m interested in sharing some tryouts, little snippets of code, but most of my commits go to my full time job
 - 🌱 I’m currently learning Three.js and trying to keep up with tech twitter
 - 💞️ Do share your what inspires you, what is something new you learned
 - 📫 Reach me on twitter @blessed_image_
